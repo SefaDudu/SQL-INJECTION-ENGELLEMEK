@@ -1,7 +1,3 @@
-# SQL-INJECTION-
-
-
-
  <h3> SQL INJECTION NEDİR ? </h3>
 <hr />
 <ul>
